@@ -117,7 +117,6 @@ The project is hosted on a shared hosting and is accessible through the followin
    "created_at": "2025-01-27 16:34:53",
    "updated_at": "2025-01-27 16:34:53"
    },
-   ...
 ]
 
 ```
@@ -194,7 +193,6 @@ The project is hosted on a shared hosting and is accessible through the followin
         "created_at": "2025-01-27 18:20:38",
         "updated_at": "2025-01-27 18:20:38"
     },
-   ...
 ]
 
 ```
