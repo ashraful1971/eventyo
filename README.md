@@ -79,20 +79,24 @@ The project is hosted on a shared hosting and is accessible through the followin
    ```bash
    git clone https://github.com/ashraful1971/eventyo
    ```
-2. Run:
+2. Go to project directory:
+   ```bash
+   cd eventyo
+   ```
+3. Run:
    ```bash
    composer install
    ```
-3. Configure the database from `src/Config/app.php` file
-4. Run the migration and seeder using console
+4. Configure the database from `src/Config/app.php` file
+5. Run the migration and seeder using console (1 = migration, 2 = seeding, 0 = exit from console)
    ```bash
    php ./artisan.php
    ```
-5. Start the server
+6. Start the server
    ```bash
    php -S localhost:8000
    ```
-6. Access the application in your browser at: http://localhost:8000
+7. Access the application in your browser at: http://localhost:8000
 
 ## API Endpoints
 
