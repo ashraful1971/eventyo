@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  },
+  "name": "event",
+  "version": "1.0.0",
+  "description": "Eventyo is a simple, web-based application that allows users to create, manage, and view events, as well as register attendees and generate event reports. It is built using PURE PHP with a custom minimal MVC-like framework structure, designed for simplicity, extendability, and future scalability.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "npx @tailwindcss/cli -i ./input.css -o ./public/css/style.css",
+    "dev": "npx @tailwindcss/cli -i ./input.css -o ./public/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
